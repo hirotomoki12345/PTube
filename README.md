@@ -23,7 +23,7 @@ Flaskアプリケーションを実行します。
 ```bash
 python main.py
 ```
-ブラウザで http://localhost:5000 にアクセスします。
+ブラウザで http://localhost:1000 にアクセスします。
 YouTubeのURLを入力して、動画をダウンロードまたは再生します。
 ## ライセンス
 
