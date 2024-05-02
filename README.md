@@ -7,7 +7,8 @@ PTubeは、YouTubeの動画をダウンロードして再生するためのシ�
 1. このリポジトリをクローンします。
 
    ```bash
-   git clone https://github.com/your-username/ptube.git```
+   git clone https://github.com/your-username/ptube.git
+   ```
 
 リポジトリのディレクトリに移動します。
 ```bash
