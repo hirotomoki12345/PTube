@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## 使い方
 Flaskアプリケーションを実行します。
 ```bash
-python app.py
+python main.py
 ```
 ブラウザで http://localhost:5000 にアクセスします。
 YouTubeのURLを入力して、動画をダウンロードまたは再生します。
